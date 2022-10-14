@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+.container {
+
+  position: relative;
+
+}
+
+
+#heading1{
+background-color: black;
+font-family:"Verdana", arial, sans-serif;
+font-color: white;
+text-align: center;
+font-size: 28px; 
+
+}
+
+.center {
+
+  position: static;
+
+  top: 50%;
+
+  width: 100%;
+
+  text-align: left;
+
+  font-size: 18px;
+
+  line-height: 200px;
+
+  height: 600px;
+
+  border: 3px solid red;
+
+  text-align: center;
+
+  line-height: 1.5;
+
+  display: inline-block;
+
+  vertical-align: middle;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: red;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+body {
+	
+
+  
+
+    background-color: black;
+	font: "Verdana", arial, sans-serif;
+    color: white;
+    font-size: 30px;
+
+} 
+
+
+header {
+
+  position: -webkit-sticky;
+
+  position: sticky;
+
+  top: 0;
+
+  padding: 5px;
+
+  background-color: red;
+
+  border: 2px solid white;
+
+	text-align: center;
+
+    color: white;
+
+    font-family: "Arial", Helvetica, sans-serif;
+
+    font-size: 60px;
+
+    }
+
+h1 {
+
+text-align: center;
+
+    color: white;
+
+    font-size: 40px;
+
+    font-family:  "Arial", Helvetica, sans-serif;
+
+
+}    
+
+h2 {
+	text-align: center;
+
+    color: white;
+
+    font-size: 30px;
+
+    font-family: "Times New Roman", Times, serif;
+
+} 
+
+p {
+
+	text-align: center;
+
+    font-family: "Times New Roman", Times, serif;
+
+    color: white;
+
+    font-size: 16px;
+	
+
+}
+	
+footer {
+	text-align: center; 
+	margin:200px;
+}
+</style>
+</head>
+</html>
